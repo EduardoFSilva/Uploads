@@ -16,52 +16,155 @@ echo
 echo  
 echo 
 screenfetch -L -A 'Alpine Linux'
+echo
+echo
 screenfetch -L -A 'Antergos'
+echo
+echo
 screenfetch -L -A 'Arch Linux'
+echo
+echo
 screenfetch -L -A 'BLAG'
+echo
+echo
 screenfetch -L -A 'BunsenLabs'
+echo
+echo
 screenfetch -L -A 'CentOS'
+echo
+echo
 screenfetch -L -A 'Chakra'
+echo
+echo
 screenfetch -L -A 'Chapeau'
+echo
+echo
 screenfetch -L -A 'CrunchBang'
+echo
+echo
 screenfetch -L -A 'CRUX'
+echo
+echo
 screenfetch -L -A 'Debian'
+echo
+echo
 screenfetch -L -A 'Deepin'
+echo
+echo
 screenfetch -L -A 'Devuan'
+echo
+echo
 screenfetch -L -A 'elementary OS'
+echo
+echo
 screenfetch -L -A 'Exherbo'
+echo
+echo
 screenfetch -L -A 'Fedora'
+echo
+echo
 screenfetch -L -A 'Frugalware'
+echo
+echo
 screenfetch -L -A 'Fuduntu'
+echo
+echo
 screenfetch -L -A 'Funtoo'
+echo
+echo
 screenfetch -L -A 'Fux'
+echo
+echo
 screenfetch -L -A 'Gentoo'
+echo
+echo
 screenfetch -L -A 'gNewSense'
+echo
+echo
 screenfetch -L -A 'Jiyuu Linux'
+echo
+echo
 screenfetch -L -A 'Kali Linux'
+echo
+echo
 screenfetch -L -A 'KaOS'
+echo
+echo
 screenfetch -L -A 'KDE neon'
+echo
+echo
 screenfetch -L -A 'Kogaion'
+echo
+echo
 screenfetch -L -A 'Korora'
+echo
+echo
 screenfetch -L -A 'LinuxDeepin'
+echo
+echo
 screenfetch -L -A 'Mint'
+echo
+echo
 screenfetch -L -A 'LMDE'
+echo
+echo
 screenfetch -L -A 'Logos'
+echo
+echo
 screenfetch -L -A 'Mageia'
+echo
+echo
 screenfetch -L -A 'Mandrake'
+echo
+echo
 screenfetch -L -A 'Manjaro'
+echo
+echo
 screenfetch -L -A 'Netrunner'
+echo
+echo
 screenfetch -L -A 'NixOS'
+echo
+echo
 screenfetch -L -A 'openSUSE'
+echo
+echo
 screenfetch -L -A 'Pardus'
+echo
+echo
 screenfetch -L -A 'Parrot Security'
+echo
+echo
 screenfetch -L -A 'PCLinuxOS'
+echo
+echo
 screenfetch -L -A 'Qubes OS'
+echo
+echo
 screenfetch -L -A 'Raspbian'
-screenfetch -L -A ''
-screenfetch -L -A ''
+echo
+echo
+screenfetch -L -A 'Red Hat Enterprise Linux'
+echo
+echo
+screenfetch -L -A 'ROSA'
 echo  
 echo  
+screenfetch -L -A 'Sabayon'
+echo  
+echo 
+screenfetch -L -A 'SailfishOS'
+echo  
+echo 
+screenfetch -L -A 'Scientific Linux'
+echo  
+echo 
+screenfetch -L -A ''
+echo  
+echo 
+screenfetch -L -A ''
+echo  
+echo 
 echo  
 echo 
 

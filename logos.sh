@@ -159,12 +159,36 @@ echo
 screenfetch -L -A 'Scientific Linux'
 echo  
 echo 
-screenfetch -L -A ''
+screenfetch -L -A 'Slackware'
 echo  
 echo 
-screenfetch -L -A ''
+screenfetch -L -A 'Solus'
 echo  
 echo 
+screenfetch -L -A 'SparkyLinux'
+echo  
+echo 
+screenfetch -L -A 'SteamOS'
+echo  
+echo
+screenfetch -L -A 'SUSE Linux Enterprise'
+echo  
+echo
+screenfetch -L -A 'SwagArch'
+echo  
+echo
+screenfetch -L -A 'Trisquel'
+echo  
+echo
+screenfetch -L -A 'Ubuntu'
+echo  
+echo
+screenfetch -L -A 'Viperr'
+echo  
+echo
+screenfetch -L -A 'Void'
+echo  
+echo
 echo  
 echo 
 
